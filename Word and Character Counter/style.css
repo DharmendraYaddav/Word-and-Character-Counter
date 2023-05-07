@@ -1,0 +1,17 @@
+body{
+   margin-top: 100px;
+   text-align: center;
+}
+
+
+#text{
+border-color:black;
+border-radius: 5px;
+font-weight: bolder;
+}
+
+#al{
+   margin:0px;
+   font-size: 25px;
+   font-weight: bold;
+}
