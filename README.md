@@ -1,1 +1,2 @@
 # Word-and-Character-Counter
+The function first removes any leading or trailing white space from the string and then uses a split method the string is converted into an array of words. The resulting array is then filtered to remove any empty strings, and the length of this filtered array gives the word count.The character count is simply the length of the original string. The function returns an object with two properties: words and characters, which contain the respective counts.
